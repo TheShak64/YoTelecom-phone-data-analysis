@@ -1,2 +1,5 @@
 # phone-data-analysis
 analysis of incoming and outgoing calls to gain insight into any issues 
+
+# Purpose of this project:
+The purpose of this project is to analyse phone data and gain insight to identify issues and suggest improvements. Fortunately, the phone company in use provides its users with an interface to view all incoming and outgoing calls. They even have nice colourful visualisations showing number if calls and abandoned calls per 3 hours. This is nice however there is a wealth of information hidden within the data dumps. The motivation for this project is to uncover why so many customers are complaining that they cant get through, to see this on a daily basis, to see true incoming calls and true abandoned calls. I am confident that the company data is correct however I personally don’t consider a call duration of say 5 seconds and then drop, to be considered as an abandoned called and rather, the customer being rather impatient or unable to continue with the call. Those people who wait for a reasonable amount of time before they hang up over frustration are the real abandoned callers.    
