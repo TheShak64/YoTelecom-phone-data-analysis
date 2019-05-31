@@ -17,3 +17,5 @@ There are three python scripts:
 
 A sample of the data visualisation is given in fig 1,2,3 respectively.
 
+The Python Pandas library was used with matplotlib
+
